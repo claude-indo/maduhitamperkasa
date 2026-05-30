@@ -53,8 +53,6 @@
 
 - 🌐 **Website:** [maduhitamperkasa.web.app](https://maduhitamperkasa.web.app)
 - 🛍️ **Shopee:** [shopee.co.id/bakulgrosirherbal](https://shopee.co.id/bakulgrosirherbal)
-- 📱 **WhatsApp:** [081282996533](https://wa.me/6281282996533)
-
 ---
 
 ## 🚚 Ekspedisi & COD
@@ -81,8 +79,6 @@
 
 ## 📞 Kontak
 
-- 📱 WhatsApp: [081282996533](https://wa.me/6281282996533)
-- 📧 Email: bakulgrosirherbal@gmail.com
 - 🛍️ Shopee: [Bakul Grosir Herbal](https://shopee.co.id/bakulgrosirherbal)
 - 🌐 Website: [maduhitamperkasa.web.app](https://maduhitamperkasa.web.app)
 
